@@ -3,7 +3,7 @@ name: 🔄 备用同步 Gist 节点文件
 on:
   schedule:
     # 每30分钟执行一次 (统一间隔，避免轮换)
-    - cron: '*/30 * * * *'
+    - cron: '*/90 * * * *'
   workflow_dispatch: # 允许手动触发
 
 # 设置权限
