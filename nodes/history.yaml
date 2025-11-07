@@ -28819,3 +28819,133 @@ proxies:
       sni: 4e04a09e-t2uf40-t9lb2a-1glq.la.shifen.uk
       type: hysteria2
       udp: true
+    - country: "\U0001F1EB\U0001F1F7FR"
+      name: "\U0001F1EB\U0001F1F7FR²_7|3.5MB/s|GPT⁺|YT|NF|3%"
+      password: telegram-id-directvpn
+      port: 22223
+      server: 15.188.72.68
+      skip-cert-verify: true
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8US²_5|1.8MB/s|GPT|YT|NF|31%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI
+        short-id: 7e44612b079459
+      server: us.nitroo-tech.ru
+      servername: mirror.yandex.ru
+      tls: true
+      type: vless
+      udp: true
+      uuid: f31f5fe0-0a42-436a-be94-437330801388
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "\U0001F1FA\U0001F1F8US²_12|1.6MB/s|GPT|YT|NF|31%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI
+        short-id: 7e44612b079459
+      server: 141.98.168.41
+      servername: mirror.yandex.ru
+      tls: true
+      type: vless
+      udp: true
+      uuid: f31f5fe0-0a42-436a-be94-437330801388
+      xudp: true
+    - auth: dbbf7649-439d-4d2e-9436-8b1a174d038f
+      name: "\U0001F1FA\U0001F1F8US²_14|2.1MB/s|GPT⁺|YT-CN|NF|D+|100%"
+      password: dbbf7649-439d-4d2e-9436-8b1a174d038f
+      port: 54265
+      server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+      skip-cert-verify: true
+      sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+      type: hysteria2
+      udp: true
+    - auth: 70e37344-c197-4c42-940d-e87122ba5e6a
+      name: "\U0001F1FA\U0001F1F8US²_18|3.1MB/s|GPT⁺|YT-CN|NF|D+|100%"
+      password: 70e37344-c197-4c42-940d-e87122ba5e6a
+      port: 58338
+      server: lsus4.lansecs.top
+      skip-cert-verify: true
+      sni: lsus4.lansecs.top
+      type: hysteria2
+      udp: true
+    - auth: ec39402b-49e2-4349-a3c0-3cccf93947e4
+      name: "\U0001F1FA\U0001F1F8US²_19|1.6MB/s|GPT⁺|YT-CN|NF|D+|100%"
+      password: ec39402b-49e2-4349-a3c0-3cccf93947e4
+      port: 58338
+      server: lsus6.lansecs.top
+      skip-cert-verify: true
+      sni: lsus6.lansecs.top
+      type: hysteria2
+      udp: true
+    - auth: 53275353-175d-4aea-901b-8bba12c7453d
+      name: "\U0001F1FA\U0001F1F8US²_9|1.3MB/s|GPT⁺|YT-CN|NF|D+|100%"
+      password: 53275353-175d-4aea-901b-8bba12c7453d
+      port: 54265
+      server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+      skip-cert-verify: true
+      sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+      type: hysteria2
+      udp: true
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision-udp443
+      name: "Relay_-\U0001F1FA\U0001F1F8US_05|3.3MB/s|GPT⁺"
+      network: tcp
+      port: 17597
+      server: usvless.yydzx.xyz
+      servername: usvless.yydzx.xyz
+      tls: true
+      type: vless
+      uuid: 4741863d-e3ac-4b9d-8185-466f437b3fa8
+    - client-fingerprint: randomized
+      name: "\U0001F1FA\U0001F1F8US¹⁺_1|1.6MB/s|GPT⁺|YT|NF|D+|GM"
+      network: ws
+      port: 2095
+      server: developers.cloudflare.com
+      tls: false
+      type: vless
+      udp: true
+      uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+      ws-opts:
+        headers:
+            Host: cnmfangbinxing.cnmfangbinxing.workers.dev
+        path: /
+    - client-fingerprint: randomized
+      name: "\U0001F1FA\U0001F1F8US¹⁺_2|1.4MB/s|GPT⁺|YT|NF|D+|GM"
+      network: ws
+      port: 2095
+      server: www.whatismyip.net
+      tls: false
+      type: vless
+      udp: true
+      uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+      ws-opts:
+        headers:
+            Host: cnmfangbinxing.cnmfangbinxing.workers.dev
+        path: /
+    - client-fingerprint: randomized
+      name: "\U0001F1FA\U0001F1F8US¹⁺_3|1.6MB/s|GPT⁺|YT|NF|D+|GM"
+      network: ws
+      port: 2095
+      server: www.temu.com
+      tls: false
+      type: vless
+      udp: true
+      uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+      ws-opts:
+        headers:
+            Host: cnmfangbinxing.cnmfangbinxing.workers.dev
+        path: /
