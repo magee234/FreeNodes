@@ -49307,3 +49307,430 @@ proxies:
   tls: true
   type: trojan
   udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 🇳🇱NL²_1|2.0MB/s|0%|GPT⁺|YT|NF|X
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 202.71.14.202
+  servername: ign.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: faa693f6-41eb-4c90-842c-876c989adc9c
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE²_1|3.9MB/s|0%|GPT⁺|TK|NF|D+|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: de3.tunnely.ru
+  servername: de3.tunnely.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+  xudp: true
+- country: 🇩🇪DE
+  name: 🇩🇪DE²_2|0.9MB/s|2%|GPT⁺|YT|TK|NF|X
+  password: telegram-id-directvpn
+  port: 22223
+  server: 18.193.4.190
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  tls: true
+  type: trojan
+  udp: true
+- client-fingerprint: edge
+  name: 🇺🇸US²_1|6.8MB/s|4%|GPT⁺|GM|YT|TK|NF|X
+  network: ws
+  port: 443
+  server: tencentapp.880517.xyz
+  servername: us2.goodusevip.top
+  tls: true
+  type: vless
+  udp: true
+  uuid: c960939b-c008-4596-9979-0f843f56a4e0
+  ws-opts:
+    headers:
+      Host: us2.goodusevip.top
+    path: /
+- cipher: aes-256-gcm
+  country: 🇯🇵JP
+  name: 🇯🇵JP²_1|10.2MB/s|3%|GPT⁺|X
+  password: 8f3a835c-8a45-480d-ae35-1deb2c52dcae
+  port: 51205
+  server: cgroup.node1.s2.nodelist-airport.com
+  type: ss
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇷🇺RU²_1|4.7MB/s|YT|TK|X
+  network: tcp
+  port: 4248
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ""
+  server: 51.250.28.151
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+  xudp: true
+- alpn:
+  - h3
+  congestion-controller: bbr
+  disable-sni: false
+  name: 🇺🇸US²_1|5.3MB/s|4%|GPT⁺|YT|TK|NF|X
+  password: d9812081-7f61-456d-9340-a1fb8dfd603b
+  port: 59422
+  reduce-rtt: false
+  request-timeout: 0
+  server: 163.192.55.17
+  sni: sanjose.nezhasu.com
+  type: tuic
+  udp-relay-mode: native
+  uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+- alterId: 0
+  cipher: auto
+  country: 🇺🇸US
+  h2-opts: {}
+  http-opts: {}
+  name: 🇳🇱NL²_1|4.7MB/s|6%|GPT⁺|YT-US|TK|NF|X
+  network: ws
+  port: 8080
+  server: 104.26.15.141
+  servername: pn2w1nweb.sigmachemicals.ir
+  skip-cert-verify: true
+  type: vmess
+  uuid: 239ed41c-4af6-49ba-8156-ff2310ea5d78
+  ws-opts:
+    headers:
+      HOST: pn2w1nweb.sigmachemicals.ir
+    path: /14351/Nextlife
+- encryption: none
+  name: 🇺🇸US²_2|1.1MB/s|0%|GPT|YT|X
+  network: ws
+  port: 80
+  server: 172.66.156.81
+  type: vless
+  udp: true
+  uuid: 8cfd8280-f401-41a8-b77f-b2048297f79c
+  ws-opts:
+    headers:
+      Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+  xudp: true
+- name: 🇭🇰HK²_3|7.1MB/s|1%|YT|NF|D+|X
+  network: tcp
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 443
+  server: 58.152.18.48
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  tls: true
+  type: trojan
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇪🇪EE²_1|1.8MB/s|0%|GPT⁺|YT-RU|TK|NF|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA
+  server: 144.31.178.168
+  servername: tbankru.outlinekeys.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: eb162ab1-a006-4931-b1b3-8fc88a22b10e
+- client-fingerprint: chrome
+  name: 🇺🇸US¹⁺_1|2.6MB/s|3%|GPT⁺|GM|YT|TK|NF|D+|X
+  network: ws
+  port: 2053
+  server: 104.26.12.27
+  servername: saas.frii.site
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6953236c-f0a2-59b8-bc60-f08256cf3371
+  ws-opts:
+    headers:
+      Host: saas.frii.site
+    path: /proxyip=sjc.o00o.ooo
+- name: 🇩🇪DE²_2|1.0MB/s|10%|GPT⁺|X
+  password: ""
+  port: 1080
+  server: 193.233.254.9
+  skip-cert-verify: true
+  type: socks5
+  username: ""
+- client-fingerprint: edge
+  name: 🇺🇸US²_6|1.9MB/s|4%|GPT⁺|GM|YT|TK|NF|X
+  network: ws
+  port: 8443
+  server: cfyes.lxy1015.top
+  servername: us2.goodusevip.top
+  tls: true
+  type: vless
+  udp: true
+  uuid: 817104ea-ac80-4073-b0c6-45dd403b72aa
+  ws-opts:
+    headers:
+      Host: us2.goodusevip.top
+    path: /
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇺🇸US²_7|1.5MB/s|59%|GPT⁺|GM|YT|TK|NF|D+|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: us2.tunnely.ru
+  servername: us2.tunnely.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+  xudp: true
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: 🇺🇸US²_8|5.1MB/s|17%|GPT⁺|YT|TK|NF|D+|X
+  network: tcp
+  port: 10001
+  reality-opts:
+    public-key: T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4
+  server: 1002.952326.xyz
+  servername: www.python.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 59142cfd-78c2-4fcd-86e8-066b413e5b61
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 🇳🇱NL²_4|4.3MB/s|11%|GPT⁺|YT|TK|NF|X
+  port: 443
+  reality-opts:
+    public-key: Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI
+    short-id: 883d8dad940eb1
+  server: nl2.miyazono-kaori.com
+  servername: www.philips.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
+- client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12
+  name: 🇩🇪DE²_3|6.4MB/s|9%|GPT⁺|YT|TK|NF|X
+  network: grpc
+  port: 31095
+  reality-opts:
+    public-key: MhGXsOSUcvAVD7M1AHbHWFrV9EMbg1c7iuB_CiHNfwU
+    short-id: 5f1e
+  server: Arshiavpn.sefryasad.ir
+  servername: refersion.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0fe18ae6-003c-49c4-9a19-894a26a6b3a9
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 🇷🇺RU²_2|4.9MB/s|YT|TK|X
+  network: tcp
+  port: 4248
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.25.172
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+  xudp: true
+- country: 🇩🇪DE
+  name: 🇩🇪DE²_4|0.7MB/s|2%|GPT⁺|YT|TK|NF|X
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 18.184.104.105
+  skip-cert-verify: true
+  tls: true
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: 🇫🇮FI²_1|6.1MB/s|7%|GPT⁺|YT|TK|NF|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: Fi2swQDCXMgw3x7TPhDXPaxjnnHwdE52EJU2cyp_EGo
+    short-id: a4587306a3bc2a23
+  server: valper.movementvip.ir
+  servername: movivoolom.movementvip.ir
+  tls: true
+  type: vless
+  udp: true
+  uuid: 918364ce-dde9-4e3c-ae1e-c7c497aebb28
+  xudp: true
+- country: 🇫🇷FR
+  name: 🇫🇷FR²_3|5.4MB/s|1%|GPT⁺|YT|TK|NF|X
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.37.147.24
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  tls: true
+  type: trojan
+  udp: true
+- encryption: none
+  name: 🇸🇬SG²_1|2.2MB/s|0%|X
+  network: ws
+  port: 443
+  server: 104.16.45.251
+  servername: hk.xaniusnippets.qzz.io
+  tls: true
+  type: vless
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: hk.xaniusnippets.qzz.io
+    path: /?ed=2560
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇳🇱NL²_6|1.1MB/s|45%|GPT⁺|TK|NF|D+|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: nl4.tunnely.ru
+  servername: nl4.tunnely.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+  xudp: true
+- client-fingerprint: chrome
+  name: 🇬🇧GB¹-US⁰_1|1.0MB/s|3%|GPT⁺|YT|TK|NF|D+|X
+  network: ws
+  port: 2053
+  server: quick-edit.devprod.cloudflare.dev
+  servername: saas.frii.site
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6953236c-f0a2-59b8-bc60-f08256cf3371
+  ws-opts:
+    headers:
+      Host: saas.frii.site
+    path: /proxyip=sjc.o00o.ooo
+- encryption: none
+  name: 🇺🇸US¹-TW⁰_1|5.8MB/s|GM|TK|NF|D+|X
+  network: ws
+  port: 443
+  server: 104.17.69.244
+  servername: snippets.kkii.eu.org
+  tls: true
+  type: vless
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  ws-opts:
+    headers:
+      Host: snippets.kkii.eu.org
+    path: /fp=chrome
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: 🇺🇸US²_11|5.6MB/s|11%|GPT⁺|GM|YT|TK|NF|X
+  port: 443
+  reality-opts:
+    public-key: _TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc
+    short-id: 9613864900a8f12d
+  server: us2.miyazono-kaori.com
+  servername: download-porter.hoyoverse.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇷🇺RU²_5|4.1MB/s|30%|GPT|TK-ES|NF|D+|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: es1.tunnely.ru
+  servername: es1.tunnely.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇺🇸US²_12|4.0MB/s|17%|GPT⁺|YT|TK|NF|D+|X
+  network: tcp
+  port: 10001
+  reality-opts:
+    public-key: T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4
+  server: 1002.952326.xyz
+  servername: www.python.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 37c6f086-3203-479d-aa55-de23a0bdfd2d
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: 🇳🇱NL²_7|5.4MB/s|6%|GPT⁺|YT-US|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: LshfUTu4rb73gmpxT53QfVgElQdDCtAr7kEwZsgkhHw
+    short-id: c7
+  server: pn7nlapp.farsiblockchain.com
+  servername: pn7nlapp.farsiblockchain.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 239ed41c-4af6-49ba-8156-ff2310ea5d78
+  xudp: true
+- country: 🇩🇪DE
+  name: 🇩🇪DE²_7|6.0MB/s|2%|GPT⁺|YT|TK|NF|X
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 18.193.4.190
+  skip-cert-verify: true
+  tls: true
+  type: trojan
+  udp: true
